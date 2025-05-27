@@ -16,7 +16,4 @@ gcc main.c -o tic_tac_toe
 - Validates moves
 - Detects winner or draw
 
-## Future Improvements
 
-- Add AI using Minimax algorithm
-- Add game menu and replay option
